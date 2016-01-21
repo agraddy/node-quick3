@@ -1,0 +1,14 @@
+{
+  "name": "node-quick3",
+  "version": "1.0.0",
+  "description": "This document is created quickly and most likely will contain errors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.4.4"
+  }
+}
